@@ -56,7 +56,7 @@ Say "Thank you" out loud and I will hear it :smile:. And if you feel generous, c
 First I want to say thank you for linux mint and ubuntu for including preseed files already. it makes my life simple to just append my config instead of open grub and create `.seed` file (*looks at you debian and zorin os*)...
 
 ## Credits
-* The client from freelancer for letting me know about preseed exist (@quinn)
+* @quinn (The client from freelancer) for letting me know about preseed exist.
 * Debian wiki - https://wiki.debian.org/DebianInstaller/Preseed/EditIso
 * Linuxquestions - https://www.linuxquestions.org/questions/zorin-os-107/installing-zorin-9-from-usb-made-by-unetbootin-but-usb-is-looking-to-cdrom-4175527824/
 - Linux mint - https://forums.linuxmint.com/viewtopic.php?p=1956995
