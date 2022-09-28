@@ -7,6 +7,12 @@ A couple of days ago, a client on freelancer.com (*feel free to hire me btw:* **
 
 ***NOTE***: This bash script is different from the one I sent to my client. to avoid license conflict.
 
+## Tested on
+* Linux mint 21
+* Zorin OS 16.1
+* Debian 11
+* Ubuntu 22.04.1
+
 ## SUPPORTED DISTROs
 * Linux mint (*working on it*)
 * Zorin OS (*working on it*)
