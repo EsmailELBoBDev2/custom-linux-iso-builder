@@ -11,7 +11,7 @@ A couple of days ago, a client on freelancer.com (*feel free to hire me btw:* **
 * Linux mint 21
 * Zorin OS 16.1
 * Debian 11
-* Ubuntu 22.04.1
+* Ubuntu 22.04
 
 ## SUPPORTED DISTROs
 * Linux mint (*working on it*)
