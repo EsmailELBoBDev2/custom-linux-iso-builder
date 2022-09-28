@@ -53,6 +53,6 @@ Sure! if you want a request and do not know how to code, open an issue or if you
 Say "Thank you" out loud and I will hear it :smile:. And if you feel generous, consider a donation: https://en.esmailelbob.xyz/#donation
 
 ## OTHER
-First I want to say thank you for linux mint and ubuntu for including preseed files already. it makes my life simple to just append my config instead of open grub and create `.seed` file (*looks at you zorin os*)...
+First I want to say thank you for linux mint and ubuntu for including preseed files already. it makes my life simple to just append my config instead of open grub and create `.seed` file (*looks at you debian and zorin os*)...
 
 -->
