@@ -52,6 +52,10 @@ Sure! if you want a request and do not know how to code, open an issue or if you
 
 Say "Thank you" out loud and I will hear it :smile:. And if you feel generous, consider a donation: https://en.esmailelbob.xyz/#donation
 
+* Why python?
+
+Because I discovered that it's easy for me to write in python, as I need to include a lot of if statements and do some work on download links.
+
 ## OTHER
 First I want to say thank you for linux mint and ubuntu for including preseed files already. it makes my life simple to just append my config instead of open grub and create `.seed` file (*looks at you debian and zorin os*)...
 
@@ -61,5 +65,8 @@ First I want to say thank you for linux mint and ubuntu for including preseed fi
 * Linuxquestions - https://www.linuxquestions.org/questions/zorin-os-107/installing-zorin-9-from-usb-made-by-unetbootin-but-usb-is-looking-to-cdrom-4175527824/
 - Linux mint - https://forums.linuxmint.com/viewtopic.php?p=1956995
 
+# NOTE
+
+Preseeding goews in two parts (*at least for me*) first part is to seed and open your installer to check that and second part is to let the installer work for you so by that, first remove `automatic-ubiquity` first to test and make sure your installer picks up your changes (*with some bugs like password field is empty and full disk encryption do not work, do not worry, it will work later when the installer runs automatically*) then later use `automatic-ubiquity` in your grub config.
 
 -->
